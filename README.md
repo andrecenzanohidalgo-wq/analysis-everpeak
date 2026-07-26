@@ -19,7 +19,7 @@ El proyecto analiza la relación entre la movilidad urbana y la productividad ec
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12O6BpHTyGhjE7TQXl31Wm9H-F5ulpfz3?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18xqoOeGiFVcKVkkrEqHSTcvX9MhN4qjh?usp=sharing)
 
 O bien:
 
