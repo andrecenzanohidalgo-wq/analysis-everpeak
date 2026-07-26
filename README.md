@@ -52,3 +52,4 @@ O bien:
 - Google Colab / Jupyter Notebook
 
 ## 📊 Resultados
+Como resultado del proyecto se obtuvo un dataset limpio y consolidado que permite analizar cómo los indicadores de movilidad urbana pueden relacionarse con variables económicas como el PIB per cápita, facilitando futuras visualizaciones y análisis estadísticos.
