@@ -19,7 +19,7 @@ El proyecto analiza la relación entre la movilidad urbana y la productividad ec
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](URL_DEL_NOTEBOOK_EN_GITHUB](https://colab.research.google.com/drive/12O6BpHTyGhjE7TQXl31Wm9H-F5ulpfz3?usp=sharing))
+[![Open In Colab](https://colab.research.google.com/drive/12O6BpHTyGhjE7TQXl31Wm9H-F5ulpfz3?usp=sharing)](URL_DEL_NOTEBOOK_EN_GITHUB)
 
 O bien:
 
@@ -52,4 +52,5 @@ O bien:
 - Google Colab / Jupyter Notebook
 
 ## 📊 Resultados
+
 Como resultado del proyecto se obtuvo un dataset limpio y consolidado que permite analizar cómo los indicadores de movilidad urbana pueden relacionarse con variables económicas como el PIB per cápita, facilitando futuras visualizaciones y análisis estadísticos.
